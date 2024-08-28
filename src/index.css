@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html{
+
+    background-color: rgb(241 245 249);
+    font-family: Rubik, sans-serif;
+    color: black;
+ }
+
+.customize-color{
+    background: rgb(46, 63, 103,0.1);
+
+}
